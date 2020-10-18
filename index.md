@@ -1,10 +1,7 @@
-<!DOCTYPE html>
 <html lang="en-US">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Здравия желаю, давно Вас не видели!</title>
     <script>
         let d = new Date();
         alert("Здравия желаю, давно Вас не видели! Сейчас время:" + d);

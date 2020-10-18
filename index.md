@@ -4,7 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <script>
         let d = new Date();
-        alert("Здравия желаю, давно Вас не видели! Сейчас время: " + d);
+        alert("Чтобы не забывала, что я тебя люблю! Сейчас время: " + d);
     </script>
     <title> Увидимся через: </title>
   <script src="//megatimer.ru/get/7cb3bae642217b0279a3371d59390e3e.js"></script>

@@ -7,7 +7,7 @@
         let d = new Date();
         alert("Чтобы не забывала, что я тебя люблю! Сейчас время: " + d);
     </script>
-  <text> Увидимся через: </text><script src="//megatimer.ru/get/96e3fdc0aed5330383868b925b095ab1.js"></script>
+  <text> Увидимся через: </text><script src="//megatimer.ru/get/d17f6aa122657cfa66d7cd7ed845bc45.js"></script>
   <text> Нам исполняется год через: </text><script src="//megatimer.ru/get/f6bac5de0aec31d9d8717da7bf9fa227.js"></script>
 </head>
 </html>
